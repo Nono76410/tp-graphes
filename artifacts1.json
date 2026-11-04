@@ -1,0 +1,65 @@
+{
+  "total_count": 3,
+  "artifacts": [
+    {
+      "id": 11882876615,
+      "node_id": "MDg6QXJ0aWZhY3QxMTg4Mjg3NjYxNQ==",
+      "name": "resultat",
+      "size_in_bytes": 97701,
+      "url": "https://api.github.com/repos/Nono76410/tp-graphes/actions/artifacts/11882876615",
+      "archive_download_url": "https://api.github.com/repos/Nono76410/tp-graphes/actions/artifacts/11882876615/zip",
+      "expired": false,
+      "digest": "sha256:5493177d46225cf77751fbe81bb86c78719498ee2b688f8f6bcb555b70d31a72",
+      "created_at": "2026-10-14T09:21:31Z",
+      "updated_at": "2026-10-14T09:21:31Z",
+      "expires_at": "2027-01-12T09:21:13Z",
+      "workflow_run": {
+        "id": 38541715551,
+        "repository_id": 1418599542,
+        "head_repository_id": 1418599542,
+        "head_branch": "main",
+        "head_sha": "48497249918e5926f724ae1044a8a30e32db70a0"
+      }
+    },
+    {
+      "id": 11882386621,
+      "node_id": "MDg6QXJ0aWZhY3QxMTg4MjM4NjYyMQ==",
+      "name": "resultat",
+      "size_in_bytes": 4783,
+      "url": "https://api.github.com/repos/Nono76410/tp-graphes/actions/artifacts/11882386621",
+      "archive_download_url": "https://api.github.com/repos/Nono76410/tp-graphes/actions/artifacts/11882386621/zip",
+      "expired": false,
+      "digest": "sha256:a7c09168870b401ee9c1fe7ca4291a4756844c9068eff3a1f796d95844928a6c",
+      "created_at": "2026-10-14T09:15:30Z",
+      "updated_at": "2026-10-14T09:15:30Z",
+      "expires_at": "2027-01-12T09:15:15Z",
+      "workflow_run": {
+        "id": 38540985537,
+        "repository_id": 1418599542,
+        "head_repository_id": 1418599542,
+        "head_branch": "main",
+        "head_sha": "0d1b118331652b65f40fa272a0fbd2b2f12bc529"
+      }
+    },
+    {
+      "id": 11881391259,
+      "node_id": "MDg6QXJ0aWZhY3QxMTg4MTM5MTI1OQ==",
+      "name": "resultat",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/Nono76410/tp-graphes/actions/artifacts/11881391259",
+      "archive_download_url": "https://api.github.com/repos/Nono76410/tp-graphes/actions/artifacts/11881391259/zip",
+      "expired": false,
+      "digest": "sha256:eaaddc4519513a1c921bea4514552eacc831f1b555cee9fa8531993f74e2fcd6",
+      "created_at": "2026-10-14T08:50:48Z",
+      "updated_at": "2026-10-14T08:50:48Z",
+      "expires_at": "2027-01-12T08:50:33Z",
+      "workflow_run": {
+        "id": 38538000990,
+        "repository_id": 1418599542,
+        "head_repository_id": 1418599542,
+        "head_branch": "main",
+        "head_sha": "1b7a037b13e936af47879a01137da0c016449456"
+      }
+    }
+  ]
+}
